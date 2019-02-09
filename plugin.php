@@ -2,7 +2,7 @@
 /*
 Plugin Name: Multisite Resource Monitor
 Plugin URI: https://github.com/DevSpace-Hosting/Multisite-Resources-Abused
-Description: Ensures subsites aren't abusing network resources.
+Description: Ensures WordPress subsites aren't abusing network resources.
 Version: 2-8-2019
 Author: DevSpace Hosting
 Author URI: https://github.com/DevSpace-Hosting
